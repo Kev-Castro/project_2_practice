@@ -1,0 +1,61 @@
+html {
+    background-color: white;
+}
+
+.hero {
+    background-color: black !important;
+}
+
+.input {
+    top: -30px;
+    text-align: center;
+}
+
+.input,
+textarea {
+    width: 40% !important;
+}
+
+.logo {
+    max-height: 7.75rem !important;
+}
+
+a {
+    color: lightskyblue;
+}
+
+
+.navbar-item.is-tab {
+    border-bottom: 1px solid transparent !important;
+    min-height: 3.25rem !important;
+    padding-bottom: calc(0.5rem - 1px) !important;
+}
+
+.my-4 {
+    margin-top: 0rem !important;
+    margin-bottom: -17rem !important;
+    margin-left: -152px !important;
+}
+
+.nav_selection {
+    position: relative !important;
+    left: -50px !important;
+}
+
+.nav_dropdown {
+
+    left: -160px !important;
+}
+
+.navbar_selection {
+    position: relative !important;
+    left: -114.35px !important;
+}
+
+.test_img {
+    height: 60%;
+}
+
+.max-w-screen-xl {
+    max-width: 1125px !important;
+}
